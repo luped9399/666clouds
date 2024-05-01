@@ -21,7 +21,7 @@
 | 产品          | 折扣 | 优惠码     | 链接                                  |
 |-------------|------|----------|-------------------------------------|
 | VPS月付     | 9折   | RXRDH4J46N | [购买链接](https://666clouds.com/aff.php?aff=1828) |
-| VPS季付     | 8折   | PY75LZAD64 | [购买链接](hhttps://666clouds.com/aff.php?aff=1828) |
+| VPS季付     | 8折   | PY75LZAD64 | [购买链接](https://666clouds.com/aff.php?aff=1828) |
 | VPS年付     | 6折   | D01WZONYCT | [购买链接](https://666clouds.com/aff.php?aff=1828) |
 
 ## 六六云 评测
